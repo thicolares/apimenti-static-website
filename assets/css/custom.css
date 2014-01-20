@@ -1,0 +1,5 @@
+.product p { margin: 10px 0px 0px 0px; }
+.product .product-logo { height: 100px; }
+.product .product-logo a{ display: block; }
+
+.tooltip{width: 180px;}

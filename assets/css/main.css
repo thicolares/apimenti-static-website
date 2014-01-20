@@ -50,8 +50,9 @@ p {
 
 /* Links */
 a {
-    color: #f85c37;
+    color: #045cb6;
     word-wrap: break-word;
+    text-decoration: underline;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
     -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -62,7 +63,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #7b7b7b;
+    color: #f85c37;
     text-decoration: none;
     outline: 0;
 }
@@ -88,17 +89,19 @@ a:after {
 
 
 .navbar {
-	font-weight: 800;
-	font-size: 14px;
+	font-weight: 300;
+	font-size: 16px;
 	padding-top: 15px;
 	padding-bottom: 15px;
 	background-color: #ffffff;
 }
-
+.navbar-default .navbar-nav a { text-decoration: none; }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	color: #ffffff;
 	background-color: #17cf4f;
 }
+
+.navbar-nav > li > a{ padding: 15px 20px; }
 
 .navbar-brand {
 	font-size: 60px;
@@ -129,8 +132,8 @@ a:after {
 /* hello */
 #hello {
 	width: 100%;
-	padding-top: 250px;
-	padding-bottom: 250px;
+	padding-top: 200px;
+	padding-bottom: 200px;
 }
 
 #hello h1 {
@@ -178,8 +181,10 @@ a:after {
 
 #skills p {
 	color: white;
-	font-weight: 400;
+	font-weight: 300;
 }
+
+#skills a { color:#70b4f9; }
 
 /* Social Links */
 #social {
@@ -187,6 +192,8 @@ a:after {
 	padding-top: 200px;
 	padding-bottom: 200px;
 }
+
+#social h3 { padding-bottom: 110px; }
 
 #social i {
 	font-size: 50px;
