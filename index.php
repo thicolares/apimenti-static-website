@@ -142,7 +142,7 @@
 						Junto ao fazDelivery, desenvolvemos um motor de busca. Implantamos uma busca rápida, eficiente e inteligente em seu projeto.
 					</p>
 					<p>
-						<a href="s-engine" target="_blank" data-toggle="tooltip" data-placement="bottom" title="entre em contato">entre em contato</a>
+						<a href="contato" target="_blank" data-toggle="tooltip" data-placement="bottom" title="entre em contato">entre em contato</a>
 					</p>
 				</div>
 			</div>
