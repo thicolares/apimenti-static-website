@@ -88,7 +88,7 @@
 		    				anos tempeirando a internet
 		    			</h2>
 		    			<p>
-		    				<div class="fb-like" data-href="https://www.facebook.com/apimenti" data-width="420" data-layout="standard" data-action="like" data-show-faces="true" data-share="false"></div>
+		    				<div class="fb-like" data-href="https://www.facebook.com/apimenti" data-width="410" data-layout="standard" data-action="like" data-show-faces="true" data-share="false"></div>
 		    			</p>
 		    		</div><!-- /col-lg-8 -->
 		    	</div><!-- /row -->
