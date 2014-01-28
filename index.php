@@ -107,7 +107,7 @@
 						<p>
 							A Apimenti desenvolve coisas para internet.
 							<br />
-							Desde games, social apps, aplicações mobile ou web, passando por CMS's etc. Não importa muito o meio, tendo como destino a internet, sabemos
+							Desde games, social apps, aplicações mobile ou web, passando por CMS's etc. Não importa muito o meio, tendo como destino a internet sabemos
 							escrever boas linhas de código para transformar uma ideia em negócio.
 						</p>
 					</div>
@@ -204,11 +204,12 @@
 					<h3>APIMENTI... DE APIMENTAR</h3>
 					<div class="col-lg-10 col-lg-offset-1 mt">
 						<p>
-							<a href="http://afialho.com" target="_blank">Fialho</a>,
-							<a href="http://about.me/jailson" target="_blank">Jailson</a>,
-							<a href="https://www.facebook.com/rafael.a.silva.961556" target="_blank">Rafael</a> e
-							<a href="http://colar.es/" target="_blank">Thiago</a>
-							fundaram em 2009 a Apimenti, com a proposta de levar mais tempeiro para internet.
+							Somos uma empresa criada por quatro egressos do curso de Ciência da Computação da UFBA,
+							<a href="http://afialho.com" target="_blank">Adriano Fialho</a>,
+							<a href="http://about.me/jailson" target="_blank">Jailson Brito</a>,
+							<a href="https://www.facebook.com/rafael.a.silva.961556" target="_blank">Rafael Ávila</a>,
+							<a href="http://colar.es/" target="_blank">Thiago Colares</a>.
+							Não estudamos apenas as ferramentas, mas o que de muito significativo podemos fazer com elas.
 						</p>
 						<p>
 							Algumas sementes plantadas:
