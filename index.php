@@ -105,7 +105,7 @@
 					<div class="col-lg-7 centered">
 						<h3>“Falar é fácil. Mostre-me o código” ― Linus Torvalds</h3>
 						<p>
-							A Apimenti desenvolve coisas para internet.
+							O lema da Apimenti é desenvolver aplicativos para a internet. Mas que sejam bonitos, fáceis de usar e que tragam resultados.
 							<br />
 							Desde games, social apps, aplicações mobile ou web, passando por CMS's etc. Não importa muito o meio, tendo como destino a internet sabemos
 							escrever boas linhas de código para transformar uma ideia em negócio.
@@ -148,7 +148,7 @@
 				</div>
 				<div class="col-lg-4 product">
 					<div class="product-logo centered">
-						<a href="s-engine" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Conheça nosso motor de busca">
+						<a href="#" data-toggle="modal" data-target="#modal-s-engine" data-placement="bottom" title="Conheça nosso motor de busca">
 							<img src="assets/img/logo-s-engine.png" alt="S-ENGINE motor de busca">
 						</a>
 					</div>
@@ -201,15 +201,21 @@
 		<div id="skills">
 			<div class="container">
 				<div class="row centered">
-					<h3>APIMENTI... DE APIMENTAR</h3>
-					<div class="col-lg-10 col-lg-offset-1 mt">
+					<h3>APIMENTI VEM DE APIMENTAR</h3>
+					<div class="col-lg-10 col-lg-offset-1 mt" style="text-align:left;">
 						<p>
-							Somos uma empresa criada por quatro egressos do curso de Ciência da Computação da UFBA,
+							Somos uma empresa criada em 2009 por quatro egressos do curso de Ciência da Computação da UFBA,
 							<a href="http://afialho.com" target="_blank">Adriano Fialho</a>,
 							<a href="http://about.me/jailson" target="_blank">Jailson Brito</a>,
 							<a href="https://www.facebook.com/rafael.a.silva.961556" target="_blank">Rafael Ávila</a>,
 							<a href="http://colar.es/" target="_blank">Thiago Colares</a>.
 							Não estudamos apenas as ferramentas, mas o que de muito significativo podemos fazer com elas.
+						</p>
+						<p>
+							Nosso segundo nome é tração. Temos um prazer enorme em tirar idéias do papel, em criar modelos de negócio simples enquanto vamos planejando para longo prazo. Deixar as pessoas testarem logo antes de fazer uma profunda pesquisa de mercado.
+						</p>
+						<p>
+							Acreditamos muito no poder da estratégia. Adoramos traçar planos para que uma idéia na internet realmente traga resultados ao longo de muito tempo.
 						</p>
 						<p>
 							Algumas sementes plantadas:
