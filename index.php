@@ -85,7 +85,7 @@
 					          $today        = new DateTime();
 					          echo $today->format('Y') - $foundingDate->format('Y');
 					        ?>
-		    				anos tempeirando a internet
+		    				anos temperando a internet
 		    			</h2>
 		    			<p>
 		    				<div class="fb-like" data-href="https://www.facebook.com/apimenti" data-width="410" data-layout="standard" data-action="like" data-show-faces="true" data-share="false"></div>
